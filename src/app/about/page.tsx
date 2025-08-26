@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     "Frontend Developer",
     "JavaScript",
     "Next.js",
-    "Vietnam Developer",
+    "Full Stack Developer",
   ],
   openGraph: {
     title: "About | Ashis Kumar Swain",
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     // images: ["https://kinhdev.id.vn/images/seo/about-og-image.png"],
   },
   alternates: {
-    canonical: "https://kinhdev.id.vn/about",
+    canonical: "https://ashiskumar.xyz/about",
   },
 }
 
