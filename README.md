@@ -46,9 +46,3 @@ Currently focusing on creating modern web apps with Next.js, TailwindCSS, and Ty
 </a>
 
 
-Do you want me to make it more eye-catching with animated banners, dynamic stats, and streak graphs?
-That would make your GitHub profile look super professional and recruiter-friendly.
-
-Should I make that advanced README for you?
-It’ll look modern, attractive, and fully optimized.
-
