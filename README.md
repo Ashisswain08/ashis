@@ -8,7 +8,7 @@ I’m a passionate Full Stack Developer with expertise in React.js, Node.js, Exp
 I love building scalable, high-performance, and user-friendly applications.
 Currently focusing on creating modern web apps with Next.js, TailwindCSS, and TypeScript.
 	•	🌍 I’m based in India
-	•	✉️ You can contact me at ashis.dev24@gmail.com
+	•	✉️ You can contact me at ashisswain330@gmail.com
 	•	🚀 Currently working on Restaurant App using MERN + React
 	•	🤝 Open to collaborate on Web Apps, SaaS, AI, and Open-Source Projects
 	•	⚡ Fun fact: I debug faster with coffee ☕ + music 🎧
