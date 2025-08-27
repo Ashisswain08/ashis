@@ -1,7 +1,3 @@
-Got it 🙂 You want me to customize your GitHub README and replace kinhdev24 with your name (Ashis Kumar Swain), update your profile details, and make it match your portfolio as a Full Stack Developer instead of just a frontend engineer, right?
-
-I’ll completely revamp your README to make it professional and attractive for recruiters and GitHub visitors. Here’s your updated version:
-
 Hi there! 👋 I’m Ashis Kumar Swain
 
 🚀 Full Stack Developer | MERN & React Specialist
